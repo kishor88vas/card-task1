@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.main_container1{
+	margin: 0 auto;
+	height: 100vh;
+}
+
+.sub_container{
+	margin: 50px auto;	
+	height: auto;
+	width: 300px;
+	background-color: black;
+	padding: 5px;
+	
+}
+
+.icon span{
+	color: orange;
+	display: flex;
+	align-items: center;
+	margin: 8px;
+}
+
+.icon h2{
+	color: white;
+}
+
+.icon p{
+	color: gray;
+}
+
+.para_content{
+	display: flex;
+	flex-direction: column;
+	row-gap: 10px;
+}
